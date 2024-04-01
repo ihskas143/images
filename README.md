@@ -1,2 +1,2 @@
-# images
-animation using html css from my paintings
+# animation(html/css)
+animation using html css of my paintings
